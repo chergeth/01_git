@@ -39,4 +39,5 @@ You will very likely not be able to do this unless you read a good part of at le
 7. You whould now be able to load `sierpinski.Rmd` in your RStudio session and render it, getting a nice animation. Your result should look like this:
 
   ![Sierpinski Triangle](sier.png)
+Inspection: 
   
